@@ -15,3 +15,6 @@ To get started with the project, follow these steps:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any improvements or suggestions.
 
+## Entry Page:
+
+[entrypage.webm](https://github.com/cyboranf/meetex-socialmedia-webapp/assets/99881266/7258fa42-0e76-446a-bea3-6656730e9315)
